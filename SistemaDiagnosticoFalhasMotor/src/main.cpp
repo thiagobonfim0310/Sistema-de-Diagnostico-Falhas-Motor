@@ -6,12 +6,12 @@
 #include <Wire.h>
 
 //Configurações do wifi
-#define WIFI_SSID "Gilvan 2G"
-#define WIFI_PASSWORD "@20202021"
+#define WIFI_SSID "****"
+#define WIFI_PASSWORD "******"
 
 //Configuração Firebase
-#define FIREBASE_HOST "https://sistfalhamotor-655f7-default-rtdb.firebaseio.com/"
-#define FIREBASE_AUTH "D0xIQzyT3oPVDYxABNiAf0a0bQkLRCNqFlHQd5CA"
+#define FIREBASE_HOST "****"
+#define FIREBASE_AUTH "****"
 
 //Objeto de dados do firebase
 FirebaseData firebaseData;
